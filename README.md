@@ -4,10 +4,6 @@
 
 </span>
 
-<div align="center">
-<img src="https://github.com/Marcos-Vinicius1801/dtmoney/blob/main/appImage.png?raw=true" width="700px" />
-</div>
-
 <p align="left">
 	Repositório criado como desafio para o bootcamp fron-end da DIO.  
 </p>
